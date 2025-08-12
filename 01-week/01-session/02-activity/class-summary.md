@@ -7,15 +7,6 @@ Se asignaron tareas individuales y grupales, incluyendo la elaboración de un RE
 
 Resumen:
 En la sesion del dia 12/08/2025 se realizo una investigacion de el tema: conventional commit ademas de la estructuracion de los ambientes (QA, DEV, PROJECT), despues se socializo rapidamente lo que se investigo, y nos dejaron unos entregables para el dia jueves.
-------------------------------------------------------------
-👥 Participantes y estado
-- Keiner Andres Cano Narvaez — OK
-- Juan Sebastian Gonzalez Horta — OK
-- Robert Andres Rodriguez Velazco (Premio)
-  - Preparar PPT del punto 4 para socializar y demostrar ejercicio práctico el jueves 14.
-- Karol Viviana Pastrana Pastrana (Premio)
-  - Preparar PPT del punto 4 para socializar y demostrar ejercicio práctico el jueves 14.
-- Andres Felipe Morales Casanova — OK
 
 ------------------------------------------------------------
 📌 Temas trabajados en clase
@@ -55,7 +46,3 @@ En la sesion del dia 12/08/2025 se realizo una investigacion de el tema: convent
 
 6. Evidencia de commits  
    - Mostrar evidencia de commits en diferentes momentos del proceso (importante).
-
-------------------------------------------------------------
-📅 Entregables especiales
-- Robert y Karol → Presentar PPT del punto 4 el jueves 14, con ejemplo práctico y socialización en clase.
