@@ -1,0 +1,58 @@
+\begin{figure*}[hbt]
+\ifnextchar[{\eatarg}{}
+[h]
+\centering
+\includegraphics[width=0.8\columnwidth]{graphics/estructura-metodologica.png}
+\caption{Estructura metodológica para la gestión de horarios académicos.}
+\label{fig:estructura_metodologica}
+\end{figure*}
+\efloatseparator
+ 
+\begin{figure*}[hbt]
+\ifnextchar[{\eatarg}{}
+[h]
+\centering
+\includegraphics[width=0.8\columnwidth]{graphics/historia de usuario.png}
+\caption{Ejemplo de historia de usuario en entornos ágiles.}
+\label{fig:historia_usuario}
+\end{figure*}
+\efloatseparator
+ 
+\begin{figure*}[hbt]
+\ifnextchar[{\eatarg}{}
+[h]
+\centering
+\includegraphics[width=0.8\columnwidth]{graphics/java-nuevas-tecnologias.png}
+\caption{Tecnologías Java y nuevas innovaciones en desarrollo backend.}
+\label{fig:java_tecnologias}
+\end{figure*}
+\efloatseparator
+ 
+\begin{figure*}[hbt]
+\ifnextchar[{\eatarg}{}
+[h]
+\centering
+\includegraphics[width=0.8\columnwidth]{graphics/bases-de-datos-sql-y.nosql.png}
+\caption{Comparación entre bases de datos SQL y NoSQL.}
+\label{fig:bases_datos}
+\end{figure*}
+\efloatseparator
+ 
+\begin{figure*}[hbt]
+\ifnextchar[{\eatarg}{}
+[h]
+\centering
+\includegraphics[width=0.8\columnwidth]{graphics/apis restfull.png}
+\caption{Ejemplo de APIs RESTful en sistemas distribuidos.}
+\label{fig:apis_restful}
+\end{figure*}
+\efloatseparator
+ 
+\begin{figure*}[hbt]
+\ifnextchar[{\eatarg}{}
+[h]
+\centering
+\includegraphics[width=0.8\columnwidth]{graphics/docker.png}
+\caption{Contenerización con Docker para despliegue eficiente.}
+\label{fig:docker}
+\end{figure*}

@@ -1,0 +1,382 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{apa/apasortcite//global/global/global}
+    \entry{arciniegas2025}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=04f2a4d09ef3bb0853653ed69f07c9aa}{%
+           family={Arciniegas},
+           familyi={A\bibinitperiod},
+           given={A.\bibnamedelimi Y.},
+           giveni={A\bibinitperiod\bibinitdelim Y\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Universidad Tecnológica de Pereira}%
+      }
+      \strng{namehash}{04f2a4d09ef3bb0853653ed69f07c9aa}
+      \strng{fullhash}{04f2a4d09ef3bb0853653ed69f07c9aa}
+      \strng{fullhashraw}{04f2a4d09ef3bb0853653ed69f07c9aa}
+      \strng{bibnamehash}{04f2a4d09ef3bb0853653ed69f07c9aa}
+      \strng{authorbibnamehash}{04f2a4d09ef3bb0853653ed69f07c9aa}
+      \strng{authornamehash}{04f2a4d09ef3bb0853653ed69f07c9aa}
+      \strng{authorfullhash}{04f2a4d09ef3bb0853653ed69f07c9aa}
+      \strng{authorfullhashraw}{04f2a4d09ef3bb0853653ed69f07c9aa}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Practicante en Lenguaje de Programación Java y Nuevas Tecnologías}
+      \field{year}{2025}
+    \endentry
+    \entry{cein2025}{article}{}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=9f93b0f776181f37741c9109a62eb096}{%
+           family={Cein\bibnamedelima Villanueva},
+           familyi={C\bibinitperiod\bibinitdelim V\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0468807a47cb7a3506656e3aace6c1f3}{%
+           family={Gómez\bibnamedelima Domínguez},
+           familyi={G\bibinitperiod\bibinitdelim D\bibinitperiod},
+           given={E.},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=45016f642190f0b647070106dcf6592f}{%
+           family={Zamora\bibnamedelima Reséndiz},
+           familyi={Z\bibinitperiod\bibinitdelim R\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=84bd7b0f4c4b0380c315ed08fda19c31}{%
+           family={Priego\bibnamedelima Clemente},
+           familyi={P\bibinitperiod\bibinitdelim C\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5df83adb6286468dc323fce1ca2d0531}{%
+           family={Landero\bibnamedelima García},
+           familyi={L\bibinitperiod\bibinitdelim G\bibinitperiod},
+           given={E.},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{ac80ba0c673fc272234f188994ae9767}
+      \strng{fullhash}{65a6cae1fba7c2289c0ffc60a80d2210}
+      \strng{fullhashraw}{65a6cae1fba7c2289c0ffc60a80d2210}
+      \strng{bibnamehash}{65a6cae1fba7c2289c0ffc60a80d2210}
+      \strng{authorbibnamehash}{65a6cae1fba7c2289c0ffc60a80d2210}
+      \strng{authornamehash}{ac80ba0c673fc272234f188994ae9767}
+      \strng{authorfullhash}{65a6cae1fba7c2289c0ffc60a80d2210}
+      \strng{authorfullhashraw}{65a6cae1fba7c2289c0ffc60a80d2210}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{CL-RCM}
+      \field{number}{3}
+      \field{title}{APIs RESTful para interoperabilidad entre aplicación móvil y aplicación web}
+      \field{volume}{9}
+      \field{year}{2025}
+      \verb{doi}
+      \verb 10.37811/cl_rcm.v9i3.18325
+      \endverb
+    \endentry
+    \entry{izaurralde2013}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=42dc599cb6db9a455c9c06a905030827}{%
+           family={Izaurralde},
+           familyi={I\bibinitperiod},
+           given={M.\bibnamedelimi P.},
+           giveni={M\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Universidad Tecnológica Nacional}%
+      }
+      \strng{namehash}{42dc599cb6db9a455c9c06a905030827}
+      \strng{fullhash}{42dc599cb6db9a455c9c06a905030827}
+      \strng{fullhashraw}{42dc599cb6db9a455c9c06a905030827}
+      \strng{bibnamehash}{42dc599cb6db9a455c9c06a905030827}
+      \strng{authorbibnamehash}{42dc599cb6db9a455c9c06a905030827}
+      \strng{authornamehash}{42dc599cb6db9a455c9c06a905030827}
+      \strng{authorfullhash}{42dc599cb6db9a455c9c06a905030827}
+      \strng{authorfullhashraw}{42dc599cb6db9a455c9c06a905030827}
+      \field{sortinit}{I}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Caracterización de Especificación de Requerimientos en entornos Ágiles: Historias de Usuario}
+      \field{year}{2013}
+    \endentry
+    \entry{lozano2018}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=b0676dcb9a5355185049463c2ab7f042}{%
+           family={Lozano},
+           familyi={L\bibinitperiod},
+           given={J.\bibnamedelimi M.},
+           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Universidad de Jaén}%
+      }
+      \strng{namehash}{b0676dcb9a5355185049463c2ab7f042}
+      \strng{fullhash}{b0676dcb9a5355185049463c2ab7f042}
+      \strng{fullhashraw}{b0676dcb9a5355185049463c2ab7f042}
+      \strng{bibnamehash}{b0676dcb9a5355185049463c2ab7f042}
+      \strng{authorbibnamehash}{b0676dcb9a5355185049463c2ab7f042}
+      \strng{authornamehash}{b0676dcb9a5355185049463c2ab7f042}
+      \strng{authorfullhash}{b0676dcb9a5355185049463c2ab7f042}
+      \strng{authorfullhashraw}{b0676dcb9a5355185049463c2ab7f042}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Creación y Gestión de una Base de Datos con MySQL y phpMyAdmin}
+      \field{year}{2018}
+    \endentry
+    \entry{saltos2022}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=aae63e4bdbf4e0d59e8fa2ad37959e45}{%
+           family={Saltos},
+           familyi={S\bibinitperiod},
+           given={L.\bibnamedelimi A.},
+           giveni={L\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Universidad Técnica de Babahoyo}%
+      }
+      \strng{namehash}{aae63e4bdbf4e0d59e8fa2ad37959e45}
+      \strng{fullhash}{aae63e4bdbf4e0d59e8fa2ad37959e45}
+      \strng{fullhashraw}{aae63e4bdbf4e0d59e8fa2ad37959e45}
+      \strng{bibnamehash}{aae63e4bdbf4e0d59e8fa2ad37959e45}
+      \strng{authorbibnamehash}{aae63e4bdbf4e0d59e8fa2ad37959e45}
+      \strng{authornamehash}{aae63e4bdbf4e0d59e8fa2ad37959e45}
+      \strng{authorfullhash}{aae63e4bdbf4e0d59e8fa2ad37959e45}
+      \strng{authorfullhashraw}{aae63e4bdbf4e0d59e8fa2ad37959e45}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Estudio Comparativo entre Bases de Datos Relacional y No Relacional}
+      \field{year}{2022}
+    \endentry
+  \enddatalist
+  \datalist[entry]{apa/global//global/global/global}
+    \entry{arciniegas2025}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=04f2a4d09ef3bb0853653ed69f07c9aa}{%
+           family={Arciniegas},
+           familyi={A\bibinitperiod},
+           given={A.\bibnamedelimi Y.},
+           giveni={A\bibinitperiod\bibinitdelim Y\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Universidad Tecnológica de Pereira}%
+      }
+      \strng{namehash}{04f2a4d09ef3bb0853653ed69f07c9aa}
+      \strng{fullhash}{04f2a4d09ef3bb0853653ed69f07c9aa}
+      \strng{fullhashraw}{04f2a4d09ef3bb0853653ed69f07c9aa}
+      \strng{bibnamehash}{04f2a4d09ef3bb0853653ed69f07c9aa}
+      \strng{authorbibnamehash}{04f2a4d09ef3bb0853653ed69f07c9aa}
+      \strng{authornamehash}{04f2a4d09ef3bb0853653ed69f07c9aa}
+      \strng{authorfullhash}{04f2a4d09ef3bb0853653ed69f07c9aa}
+      \strng{authorfullhashraw}{04f2a4d09ef3bb0853653ed69f07c9aa}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Practicante en Lenguaje de Programación Java y Nuevas Tecnologías}
+      \field{year}{2025}
+    \endentry
+    \entry{cein2025}{article}{}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=9f93b0f776181f37741c9109a62eb096}{%
+           family={Cein\bibnamedelima Villanueva},
+           familyi={C\bibinitperiod\bibinitdelim V\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0468807a47cb7a3506656e3aace6c1f3}{%
+           family={Gómez\bibnamedelima Domínguez},
+           familyi={G\bibinitperiod\bibinitdelim D\bibinitperiod},
+           given={E.},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=45016f642190f0b647070106dcf6592f}{%
+           family={Zamora\bibnamedelima Reséndiz},
+           familyi={Z\bibinitperiod\bibinitdelim R\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=84bd7b0f4c4b0380c315ed08fda19c31}{%
+           family={Priego\bibnamedelima Clemente},
+           familyi={P\bibinitperiod\bibinitdelim C\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5df83adb6286468dc323fce1ca2d0531}{%
+           family={Landero\bibnamedelima García},
+           familyi={L\bibinitperiod\bibinitdelim G\bibinitperiod},
+           given={E.},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{ac80ba0c673fc272234f188994ae9767}
+      \strng{fullhash}{65a6cae1fba7c2289c0ffc60a80d2210}
+      \strng{fullhashraw}{65a6cae1fba7c2289c0ffc60a80d2210}
+      \strng{bibnamehash}{65a6cae1fba7c2289c0ffc60a80d2210}
+      \strng{authorbibnamehash}{65a6cae1fba7c2289c0ffc60a80d2210}
+      \strng{authornamehash}{ac80ba0c673fc272234f188994ae9767}
+      \strng{authorfullhash}{65a6cae1fba7c2289c0ffc60a80d2210}
+      \strng{authorfullhashraw}{65a6cae1fba7c2289c0ffc60a80d2210}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{CL-RCM}
+      \field{number}{3}
+      \field{title}{APIs RESTful para interoperabilidad entre aplicación móvil y aplicación web}
+      \field{volume}{9}
+      \field{year}{2025}
+      \verb{doi}
+      \verb 10.37811/cl_rcm.v9i3.18325
+      \endverb
+    \endentry
+    \entry{izaurralde2013}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=42dc599cb6db9a455c9c06a905030827}{%
+           family={Izaurralde},
+           familyi={I\bibinitperiod},
+           given={M.\bibnamedelimi P.},
+           giveni={M\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Universidad Tecnológica Nacional}%
+      }
+      \strng{namehash}{42dc599cb6db9a455c9c06a905030827}
+      \strng{fullhash}{42dc599cb6db9a455c9c06a905030827}
+      \strng{fullhashraw}{42dc599cb6db9a455c9c06a905030827}
+      \strng{bibnamehash}{42dc599cb6db9a455c9c06a905030827}
+      \strng{authorbibnamehash}{42dc599cb6db9a455c9c06a905030827}
+      \strng{authornamehash}{42dc599cb6db9a455c9c06a905030827}
+      \strng{authorfullhash}{42dc599cb6db9a455c9c06a905030827}
+      \strng{authorfullhashraw}{42dc599cb6db9a455c9c06a905030827}
+      \field{sortinit}{I}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Caracterización de Especificación de Requerimientos en entornos Ágiles: Historias de Usuario}
+      \field{year}{2013}
+    \endentry
+    \entry{lozano2018}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=b0676dcb9a5355185049463c2ab7f042}{%
+           family={Lozano},
+           familyi={L\bibinitperiod},
+           given={J.\bibnamedelimi M.},
+           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Universidad de Jaén}%
+      }
+      \strng{namehash}{b0676dcb9a5355185049463c2ab7f042}
+      \strng{fullhash}{b0676dcb9a5355185049463c2ab7f042}
+      \strng{fullhashraw}{b0676dcb9a5355185049463c2ab7f042}
+      \strng{bibnamehash}{b0676dcb9a5355185049463c2ab7f042}
+      \strng{authorbibnamehash}{b0676dcb9a5355185049463c2ab7f042}
+      \strng{authornamehash}{b0676dcb9a5355185049463c2ab7f042}
+      \strng{authorfullhash}{b0676dcb9a5355185049463c2ab7f042}
+      \strng{authorfullhashraw}{b0676dcb9a5355185049463c2ab7f042}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Creación y Gestión de una Base de Datos con MySQL y phpMyAdmin}
+      \field{year}{2018}
+    \endentry
+    \entry{saltos2022}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=aae63e4bdbf4e0d59e8fa2ad37959e45}{%
+           family={Saltos},
+           familyi={S\bibinitperiod},
+           given={L.\bibnamedelimi A.},
+           giveni={L\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Universidad Técnica de Babahoyo}%
+      }
+      \strng{namehash}{aae63e4bdbf4e0d59e8fa2ad37959e45}
+      \strng{fullhash}{aae63e4bdbf4e0d59e8fa2ad37959e45}
+      \strng{fullhashraw}{aae63e4bdbf4e0d59e8fa2ad37959e45}
+      \strng{bibnamehash}{aae63e4bdbf4e0d59e8fa2ad37959e45}
+      \strng{authorbibnamehash}{aae63e4bdbf4e0d59e8fa2ad37959e45}
+      \strng{authornamehash}{aae63e4bdbf4e0d59e8fa2ad37959e45}
+      \strng{authorfullhash}{aae63e4bdbf4e0d59e8fa2ad37959e45}
+      \strng{authorfullhashraw}{aae63e4bdbf4e0d59e8fa2ad37959e45}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Estudio Comparativo entre Bases de Datos Relacional y No Relacional}
+      \field{year}{2022}
+    \endentry
+  \enddatalist
+  \missing{forsgren2018accelerate}
+\endrefsection
+\endinput
+

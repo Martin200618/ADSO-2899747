@@ -1,0 +1,93 @@
+%%% -*-BibTeX-*-
+%%% Do NOT edit. File created by BibTeX with style
+%%% ACM-Reference-Format-Journals [18-Jan-2012].
+
+\begin{thebibliography}{5}
+
+%%% ====================================================================
+%%% NOTE TO THE USER: you can override these defaults by providing
+%%% customized versions of any of these macros before the \bibliography
+%%% command.  Each of them MUST provide its own final punctuation,
+%%% except for \shownote{} and \showURL{}.  The latter two
+%%% do not use final punctuation, in order to avoid confusing it with
+%%% the Web address.
+%%%
+%%% To suppress output of a particular field, define its macro to expand
+%%% to an empty string, or better, \unskip, like this:
+%%%
+%%% \newcommand{\showURL}[1]{\unskip}   % LaTeX syntax
+%%%
+%%% \def \showURL #1{\unskip}           % plain TeX syntax
+%%%
+%%% ====================================================================
+
+\ifx \showCODEN    \undefined \def \showCODEN     #1{\unskip}     \fi
+\ifx \showISBNx    \undefined \def \showISBNx     #1{\unskip}     \fi
+\ifx \showISBNxiii \undefined \def \showISBNxiii  #1{\unskip}     \fi
+\ifx \showISSN     \undefined \def \showISSN      #1{\unskip}     \fi
+\ifx \showLCCN     \undefined \def \showLCCN      #1{\unskip}     \fi
+\ifx \shownote     \undefined \def \shownote      #1{#1}          \fi
+\ifx \showarticletitle \undefined \def \showarticletitle #1{#1}   \fi
+\ifx \showURL      \undefined \def \showURL       {\relax}        \fi
+% The following commands are used for tagged output and should be
+% invisible to TeX
+\providecommand\bibfield[2]{#2}
+\providecommand\bibinfo[2]{#2}
+\providecommand\natexlab[1]{#1}
+\providecommand\showeprint[2][]{arXiv:#2}
+
+\bibitem[Arciniegas(2025)]%
+        {arciniegas2025}
+\bibfield{author}{\bibinfo{person}{A.~Y. Arciniegas}.}
+  \bibinfo{year}{2025}\natexlab{}.
+\newblock \bibinfo{booktitle}{\emph{Practicante en Lenguaje de Programación
+  Java y Nuevas Tecnologías}}.
+\newblock \bibinfo{publisher}{Universidad Tecnológica de Pereira}.
+\newblock
+
+
+\bibitem[Cein~Villanueva et~al\mbox{.}(2025)]%
+        {cein2025}
+\bibfield{author}{\bibinfo{person}{J. Cein~Villanueva}, \bibinfo{person}{E.
+  Gómez~Domínguez}, \bibinfo{person}{P. Zamora~Reséndiz},
+  \bibinfo{person}{A. Priego~Clemente}, {and} \bibinfo{person}{E.
+  Landero~García}.} \bibinfo{year}{2025}\natexlab{}.
+\newblock \showarticletitle{APIs RESTful para interoperabilidad entre
+  aplicación móvil y aplicación web}.
+\newblock \bibinfo{journal}{\emph{CL-RCM}} \bibinfo{volume}{9},
+  \bibinfo{number}{3} (\bibinfo{year}{2025}).
+\newblock
+\href{https://doi.org/10.37811/cl_rcm.v9i3.18325}{doi:\nolinkurl{10.37811/cl_rcm.v9i3.18325}}
+
+
+\bibitem[Izaurralde(2013)]%
+        {izaurralde2013}
+\bibfield{author}{\bibinfo{person}{M.~P. Izaurralde}.}
+  \bibinfo{year}{2013}\natexlab{}.
+\newblock \bibinfo{booktitle}{\emph{Caracterización de Especificación de
+  Requerimientos en entornos Ágiles: Historias de Usuario}}.
+\newblock \bibinfo{publisher}{Universidad Tecnológica Nacional}.
+\newblock
+
+
+\bibitem[Lozano(2018)]%
+        {lozano2018}
+\bibfield{author}{\bibinfo{person}{J.~M. Lozano}.}
+  \bibinfo{year}{2018}\natexlab{}.
+\newblock \bibinfo{booktitle}{\emph{Creación y Gestión de una Base de Datos
+  con MySQL y phpMyAdmin}}.
+\newblock \bibinfo{publisher}{Universidad de Jaén}.
+\newblock
+
+
+\bibitem[Saltos(2022)]%
+        {saltos2022}
+\bibfield{author}{\bibinfo{person}{L.~A. Saltos}.}
+  \bibinfo{year}{2022}\natexlab{}.
+\newblock \bibinfo{booktitle}{\emph{Estudio Comparativo entre Bases de Datos
+  Relacional y No Relacional}}.
+\newblock \bibinfo{publisher}{Universidad Técnica de Babahoyo}.
+\newblock
+
+
+\end{thebibliography}

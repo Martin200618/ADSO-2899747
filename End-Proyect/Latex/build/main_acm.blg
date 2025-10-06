@@ -1,0 +1,64 @@
+This is BibTeX, Version 0.99d
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: build/main_acm.aux
+Reallocating 'name_of_file' (item size: 1) to 21 items.
+The style file: ACM-Reference-Format.bst
+Reallocating 'name_of_file' (item size: 1) to 24 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'wiz_functions' (item size: 4) to 6000 items.
+Database file #1: bibliography/references.bib
+Warning--I didn't find a database entry for "forsgren2018accelerate"
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'wiz_functions' (item size: 4) to 9000 items.
+Reallocating 'glb_str_end' (item size: 4) to 20 items.
+Reallocating 'glb_str_ptr' (item size: 4) to 20 items.
+Reallocating 'global_strs' (item size: 1) to 4000000 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Warning--empty address in arciniegas2025
+Warning--page numbers missing in both pages and numpages fields in cein2025
+Warning--empty address in izaurralde2013
+Warning--empty address in lozano2018
+Warning--empty address in saltos2022
+You've used 5 entries,
+            6273 wiz_defined-function locations,
+            1542 strings with 18956 characters,
+and the built_in function-call counts, 4044 in all, are:
+= -- 446
+> -- 115
+< -- 0
++ -- 32
+- -- 43
+* -- 267
+:= -- 445
+add.period$ -- 29
+call.type$ -- 5
+change.case$ -- 29
+chr.to.int$ -- 5
+cite$ -- 10
+duplicate$ -- 378
+empty$ -- 268
+format.name$ -- 47
+if$ -- 912
+int.to.chr$ -- 2
+int.to.str$ -- 1
+missing$ -- 12
+newline$ -- 80
+num.names$ -- 35
+pop$ -- 156
+preamble$ -- 1
+purify$ -- 69
+quote$ -- 0
+skip$ -- 128
+stack$ -- 0
+substring$ -- 256
+swap$ -- 28
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 76
+warning$ -- 5
+while$ -- 31
+width$ -- 0
+write$ -- 133
+(There were 6 warnings)

@@ -1,0 +1,13 @@
+\section{Metodología de investigación aplicada}
+\subsection{Enfoque de desarrollo}
+Para la gestión del proyecto se utilizó una metodología ágil inspirada en Scrum, con iteraciones semanales y priorización de funcionalidades, similar a prácticas en desarrollo con Java y Spring Boot \cite{arciniegas2025}. Los requerimientos funcionales incluyeron: registro de cursos, asignaturas, profesores y disponibilidades; generación automática de horarios; visualización y consulta de horarios; y exportación a PDF, Excel e imágenes. Estos requerimientos se especificaron mediante historias de usuario siguiendo el modelo INVEST (Independientes, Negociables, Valiosas, Estimables, Pequeñas y Verificables), permitiendo una definición iterativa y adaptable \cite{izaurralde2013}. Requerimientos no funcionales: seguridad en autenticación, usabilidad en interfaces y escalabilidad para múltiples usuarios.
+
+La arquitectura seleccionada fue modular, con el backend en Spring Boot actuando como núcleo, el frontend web en Next.js para administración y el móvil en React Native para consultas. Esto permite separación de responsabilidades y facilidad de mantenimiento.
+
+Desarrollo del backend (Spring Boot): Se implementó siguiendo el patrón MVC (Model-View-Controller), con controladores REST para CRUD de entidades (cursos, profesores, asignaturas, horarios), servicios de negocio y repositorios JPA. La generación automática de horarios utiliza algoritmos simples de asignación basados en disponibilidades. Se integró Spring Security con JWT para autenticación en el inicio de sesión. Servicios de exportación generan PDFs con iTextPDF, Excels con Apache POI y gráficos con JFreeChart.
+
+Desarrollo de la aplicación web (Next.js): Construida con TypeScript, utiliza Axios para consumir la API REST. Incluye dashboards para gestión de entidades, generación de horarios y visualización con gráficos de Recharts. La interfaz es responsiva con Tailwind CSS y estilos personalizados en CSS.
+
+Desarrollo de la aplicación móvil (React Native): Desarrollada con Expo para Android, permite login y consulta de horarios por curso o profesor. Utiliza navegación con React Navigation y almacenamiento local con AsyncStorage.
+
+Pruebas e integración: Se realizaron pruebas unitarias en el backend con JUnit, pruebas manuales en interfaces y pruebas de integración end-to-end. Las APIs están documentadas con Swagger (OpenAPI) para facilitar el desarrollo y pruebas. La base de datos MySQL maneja persistencia, con Docker para orquestación en desarrollo.
