@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (MiKTeX 25.2 NEXT) (preloaded format=xelatex 2025.10.2)  2 OCT 2025 22:39
+This is XeTeX, Version 3.141592653-2.6-0.999997 (MiKTeX 25.2 NEXT) (preloaded format=xelatex 2025.10.2)  6 OCT 2025 12:40
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -996,28 +996,10 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 19.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 19.
-Package microtype Info: Loading generic protrusion settings for font family
-(microtype)             `lmtt' (encoding: TU).
-(microtype)             For optimal results, create family-specific settings.
-(microtype)             See the microtype manual for details.
-
-Overfull \hbox (415.14128pt too wide) in paragraph at lines 19--19
- [] 
- []
-
-
-Overfull \hbox (415.14128pt too wide) in paragraph at lines 19--19
- [] 
- []
-
-
-Overfull \hbox (415.14128pt too wide) in paragraph at lines 19--19
- [] 
- []
 
 (sections/00_abstract.tex) (sections/01_introduccion.tex)
 (sections/02_relacionados.tex
-Underfull \vbox (badness 2538) has occurred while \output is active []
+Underfull \vbox (badness 5417) has occurred while \output is active []
 
 
 
@@ -1035,7 +1017,7 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 File: graphics/historia de usuario.png Graphic file (type bmp)
 <graphics/historia de usuario.png>
 
-Underfull \vbox (badness 4582) has occurred while \output is active []
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
@@ -1136,11 +1118,11 @@ Package logreq Info: Writing requests to 'main_ieee.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 31706 strings out of 403246
- 668133 string characters out of 5460988
+ 31668 strings out of 403246
+ 666745 string characters out of 5460988
  1587338 words of memory out of 5000000
- 59839 multiletter control sequences out of 15000+600000
- 630284 words of font info for 95 fonts, out of 8000000 for 9000
+ 59803 multiletter control sequences out of 15000+600000
+ 630276 words of font info for 94 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  78i,13n,83p,1193b,4858s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
